@@ -1,4 +1,4 @@
-# bsc-node-tester
+# BSC Node Tester
 An Ethereum websocket latency tester.
 
 # Instalization
